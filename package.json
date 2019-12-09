@@ -1,0 +1,26 @@
+{
+  "name": "mindk-course-2019",
+  "version": "1.0.0",
+  "description": "MindK course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo1far/mindk-course-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo1far/mindk-course-2019/issues"
+  },
+  "homepage": "https://github.com/Mo1far/mindk-course-2019#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
